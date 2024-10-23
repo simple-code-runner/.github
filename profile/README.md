@@ -16,4 +16,4 @@ The Service that provides a web-based platform where users can submit code for e
 
 ![structure](https://github.com/user-attachments/assets/9a00fd38-6f4b-4e3c-bcbe-fd10d662a069)
 
-### Check out the details at Wiki tab!
+### Check out the details at [docs](/docs/)
