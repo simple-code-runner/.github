@@ -1,18 +1,18 @@
 # Simple Code Runner
 
-## 소개
+## Purpose
 
-간단히 코드를 실행해볼 수 있는 웹 서비스
+The goal is to become a better developer through the experience of designing, implementing, and deploying a scalable and extensible system!
 
-유저로부터 실행할 코드를 전달받고, 이를 실행해서 그 출력 결과를 유저에게 전달해준다.
+To focus more on design and deployment, I have chosen a relatively simple business logic for this project.
 
-## 목적
+## Overview
 
-규모가 있는, 확장성있는 시스템을 설계하고, 구현하고, 배포해보는 경험을 통해 더 멋진 개발자가 되고자 한다!
+The Service that provides a web-based platform where users can submit code for execution. It includes:
 
-가급적 설계, 배포에 집중할 수 있도록 비즈니스 로직은 상대적으로 간단한, 이런 주제를 선정해보았다.
-
-## 대략적인 설계
+- user authentication
+- language-specific code runners
+- queue-based job distribution system
 
 ![structure](https://github.com/user-attachments/assets/9a00fd38-6f4b-4e3c-bcbe-fd10d662a069)
 
